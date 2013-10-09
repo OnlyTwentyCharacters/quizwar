@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizWar", "QuizWar\QuizWar\QuizWar.csproj", "{CA6241DB-B435-40BD-9829-CD4A3AF1EB70}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "QuizWarContent", "QuizWar\QuizWarContent\QuizWarContent.contentproj", "{D92C38DD-CB1F-4D00-A33A-8CE882138AFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA6241DB-B435-40BD-9829-CD4A3AF1EB70}.Debug|x86.ActiveCfg = Debug|x86
+		{CA6241DB-B435-40BD-9829-CD4A3AF1EB70}.Debug|x86.Build.0 = Debug|x86
+		{CA6241DB-B435-40BD-9829-CD4A3AF1EB70}.Release|x86.ActiveCfg = Release|x86
+		{CA6241DB-B435-40BD-9829-CD4A3AF1EB70}.Release|x86.Build.0 = Release|x86
+		{D92C38DD-CB1F-4D00-A33A-8CE882138AFB}.Debug|x86.ActiveCfg = Debug|x86
+		{D92C38DD-CB1F-4D00-A33A-8CE882138AFB}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
