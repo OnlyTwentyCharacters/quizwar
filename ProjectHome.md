@@ -1,0 +1,1 @@
+A game quiz like for pc with windows. At begining will be made in portoguese, after will be released in other languages.
